@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Feb 24 22:05:42 2018
+# Process ID: 12768
+# Current directory: C:/Users/uditc/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4620 C:\Users\uditc\lab3\Lab_3.xpr
+# Log file: C:/Users/uditc/lab3/vivado.log
+# Journal file: C:/Users/uditc/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/uditc/lab3/Lab_3.xpr
+update_compile_order -fileset sources_1
