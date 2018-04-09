@@ -1,0 +1,18 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/uditc/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sim_1/new/tb_adder.v,1520291952,verilog,,,,tb_adder,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sim_1/new/tb_cla_adder.v,1520160883,verilog,,,,tb_cla_adder,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/adder.v,1520160396,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/cla_adder.v,,adder,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/bcd_to_7seg.v,1520213265,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/cla_adder.v,,bcd_to_7seg,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/cla_adder.v,1520293331,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/cla_gen.v,,cla_adder,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/cla_gen.v,1520293272,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/half_adder.v,,cla_gen,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/clk_gen.v,1520212543,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/half_adder.v,,clk_gen,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/half_adder.v,1520158497,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/half_adder_4.v,,half_adder,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/half_adder_4.v,1520158367,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/xor_gate.v,,half_adder_4,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/led_mux.v,1520213614,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/xor_gate.v,,led_mux,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/top_level_module.v,1520222306,verilog,,,,top_level_module,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/xor_gate.v,1520155382,verilog,,C:/Users/uditc/lab4/lab4.srcs/sources_1/new/xor_gate_4.v,,xor_gate,,,,,,,,
+C:/Users/uditc/lab4/lab4.srcs/sources_1/new/xor_gate_4.v,1520158270,verilog,,C:/Users/uditc/lab4/lab4.srcs/sim_1/new/tb_cla_adder.v,,xor_gate_4,,,,,,,,

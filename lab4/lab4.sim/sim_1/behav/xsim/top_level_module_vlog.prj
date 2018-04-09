@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab4.srcs/sources_1/new/bcd_to_7seg.v" \
+"../../../../lab4.srcs/sources_1/new/cla_adder.v" \
+"../../../../lab4.srcs/sources_1/new/cla_gen.v" \
+"../../../../lab4.srcs/sources_1/new/clk_gen.v" \
+"../../../../lab4.srcs/sources_1/new/half_adder.v" \
+"../../../../lab4.srcs/sources_1/new/half_adder_4.v" \
+"../../../../lab4.srcs/sources_1/new/led_mux.v" \
+"../../../../lab4.srcs/sources_1/new/xor_gate.v" \
+"../../../../lab4.srcs/sources_1/new/xor_gate_4.v" \
+"../../../../lab4.srcs/sources_1/new/top_level_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
