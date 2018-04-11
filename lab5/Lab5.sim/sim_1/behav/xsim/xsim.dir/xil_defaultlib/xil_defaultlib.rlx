@@ -1,0 +1,17 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new/tb_multiplier.v,1520892756,verilog,,,,tb_multiplier,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/PP.v,1520827744,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_adder.v,,PP,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/PP_4.v,1520825866,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_adder.v,,PP_4,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_adder.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_adder_8bit.v,,cla_adder,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_adder_8bit.v,1520827204,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_gen.v,,cla_adder_8bit,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/cla_gen.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/half_adder.v,,cla_gen,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/half_adder.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/half_adder_4.v,,half_adder,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/half_adder_4.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/multiplier_4bit.v,,half_adder_4,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/multiplier_4bit.v,1520822007,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/top_level_multiplier.v,,multiplier_4bit,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/top_level_multiplier.v,1520827762,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/xor_gate.v,,top_level_multiplier,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/xor_gate.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/xor_gate_4.v,,xor_gate,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sources_1/new/xor_gate_4.v,1520822492,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new/tb_multiplier.v,,xor_gate_4,,,,,,,,

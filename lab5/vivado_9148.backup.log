@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Mar 11 19:33:54 2018
+# Process ID: 9148
+# Current directory: C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10616 C:\Users\theal\Documents\SCHOOL\CMPE 125 Lab\GitLabs\lab5\Lab5.xpr
+# Log file: C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/vivado.log
+# Journal file: C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:07 . Memory (MB): peak = 804.484 ; gain = 122.156
+update_compile_order -fileset sources_1
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+file mkdir C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new
+can't create directory "C:/Users/theal/Documents/SCHOOL/CMPE": file already exists
+file mkdir {C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new}
+close [ open {C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new/tb_multiplier.v} w ]
+add_files -fileset sim_1 {{C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab5/Lab5.srcs/sim_1/new/tb_multiplier.v}}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Mar 11 19:36:53 2018...
