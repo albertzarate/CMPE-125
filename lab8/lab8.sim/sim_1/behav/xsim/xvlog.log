@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/comparator_z.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_z
+ERROR: [VRFC 10-91] in_a is not declared [C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/comparator_z.v:8]
+ERROR: [VRFC 10-1040] module comparator_z ignored due to previous errors [C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/comparator_z.v:3]

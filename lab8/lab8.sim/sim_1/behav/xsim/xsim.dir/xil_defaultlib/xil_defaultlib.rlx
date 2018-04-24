@@ -1,0 +1,12 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sim_1/new/tb_divider_DP.v,1524302028,verilog,,,,tb_divider_DP,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/comparator.v,1524299313,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/divider_dp.v,,comparator,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/divider_dp.v,1524306319,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/mux2.v,,DP,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/mux2.v,1524307283,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/shift_register.v,,mux2,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/shift_register.v,1524301669,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/subtractor.v,,shift_reg,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/subtractor.v,1524202639,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/ud_counter.v,,subtractor,,,,,,,,
+C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sources_1/new/ud_counter.v,1524299518,verilog,,C:/Users/theal/Documents/SCHOOL/CMPE 125 Lab/GitLabs/lab8/lab8.srcs/sim_1/new/tb_divider_DP.v,,ud_counter,,,,,,,,
